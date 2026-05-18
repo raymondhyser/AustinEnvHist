@@ -1,5 +1,6307 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 8,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, this is Sunday, September 21st, and we're in the living room of Janet Fish, who I'll be interviewing, and I am [inaudible name]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "928aa896-cc6e-4bc8-b5af-12bca5dd6025"
+    },
+    {
+      "start_time": 22,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We still had, we still had Wheatville. All along the bank, the east bank of Shoal Creek, there were nice [redacted] cabins. They had chickens, they had roosters. They had cows, I'm sure. Many of the women took in laundry. The men, most of them, would walk on into town. Some of them had jobs close by. The- there was no… Shoal Creek Boulevard early at that period, and certainly no Mopac. Now, and if you want to add something or say something- [laughter, interviewees cross talk]. The second one I like it says, 'where were the most popular swimming holes along Shoal Creek?', well I just listed swimming holes here!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "561b6655-6927-408c-ba99-94648f660cc7"
+    },
+    {
+      "start_time": 72,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I want to… I brought a map so that I could mark them.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c9790f1f-6af1-4242-833e-b23467efbe86"
+    },
+    {
+      "start_time": 78,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I reach a sudden blank you can turn that off for a minute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1aeabccd-10fe-4115-8e60-e80dab2ef4e1"
+    },
+    {
+      "start_time": 82,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd be happy to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e6aa3fda-fb96-48c2-8136-8c71cb15d286"
+    },
+    {
+      "start_time": 83,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, now one swimming hole that was very well known was Blue Hole."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "a57b0b0d-2474-4418-b664-adcecaf277de"
+    },
+    {
+      "start_time": 87,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blue Hole is, um, north of 29th Street Bridge. It's down at the foot of the high bluff. And you don't realize when you're driving along Lamar Boulevard that if you get out of your car between 29th Street and [inaudible] 30th, 31st, and look over edge, you're looking down a real drop, like 50 feet straight down like a sheer bluff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "53c6469f-864e-4d5d-8426-39a517568b5e"
+    },
+    {
+      "start_time": 111,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there's kind of a, um, limestone shelter in there, under the [interviewees cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "db6db8b7-db28-451d-90df-9b5635c30089"
+    },
+    {
+      "start_time": 118,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "6ad2daa3-9624-4a41-904a-296bcd960e27"
+    },
+    {
+      "start_time": 118,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that's where the-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "659cba84-cc4b-4569-88a2-2ad3e5770354"
+    },
+    {
+      "start_time": 119,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blue Hole was right down at the bottom. And the first time I was in that area, that land belonged to the county. And the county mule barn was down there, and they had a well that was almost in the creek that I guess they used for the mules, but it has changed since then. It also was a very narrow road, and you can still see the roadway. To get down from high up above and get down to the bottom where the mules were. Usually, you approach the mule barn from the west side. It was on the west side of the creek. Had to be, because of the bluff. I'd forgotten about the mule barn..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "8f96fb4e-9c12-485b-9dd1-0008f28e7f94"
+    },
+    {
+      "start_time": 153,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, second swimming hole, we have Split Rock."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "198cee1e-5f8c-4da3-9a58-f1759a4bad0a"
+    },
+    {
+      "start_time": 155,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a5c116e4-2c25-4d61-8951-b0cf52c9df15"
+    },
+    {
+      "start_time": 156,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And incidentally, there is a picture that you have or were looking at of Lungkwitz's. Painting of Split Rock-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "6b536249-fc0b-453c-baae-6ebe4c9e78e1"
+    },
+    {
+      "start_time": 163,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "74983fa2-8799-402e-95c3-110e81b98f8c"
+    },
+    {
+      "start_time": 164,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In that book. Okay, Split Rock is south of 29th Street. And, there used to be a real nice big pool there, but Blue Hole was a nice big pool. It was really a big, nice pool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "d31cc71b-20eb-463b-88a4-b2c19f1eca12"
+    },
+    {
+      "start_time": 178,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, a huge rock that had come down through the centuries of thousands of years, that acted as a sort of a natural dam in the creek. And it was a wonderful place to swim. Also, I've seen many of the many of the people who lived in the houses up on the east side, the ones that had the chickens and had the dogs and all. I've seen them down there fishing and catching fish. And after a good flood, we would- there would usually be a lot of perch down there. That was Split Rock Pool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "8b946449-8b52-493e-b99a-316e92577ea4"
+    },
+    {
+      "start_time": 208,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So is that… you know how the trail… I've always envisioned that when the trail crosses the creek and they built sort of a low water crossing… is that sort of-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a1c4dedb-70d5-49a4-9fb5-b17d7919c88e"
+    },
+    {
+      "start_time": 219,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's the first dam we put in. The city did it. And in fact, when we contracted with them on the trail, they were to maintain it. We paid for [inaudible], for putting it in and so forth, and worked with the city crew, and we had a dam. And that dam went out the day of the Memorial Day Flood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "74f65afd-39a6-4a23-b63d-691e1a60afab"
+    },
+    {
+      "start_time": 234,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But there was a dam, and [it was] beautiful, but we put it back… the [inaudible] city people who did it… we put it back the way the original level had been… the water level had been. And you could see very definitely around the shape of the pool. And that had an iron little thing you could pull up, like a flood gate that was probably two or three feet tall. So, you could drain it out, or open it up, if you had a flood, and let it go through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "2856b680-5b37-44be-9d70-c39174e2d2ed"
+    },
+    {
+      "start_time": 259,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "dce31877-70b9-48a9-ab33-bda7df8f9f70"
+    },
+    {
+      "start_time": 261,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But that was a real popular place to swim. Now, the one... that I remember… the pool… and actually, the man that told me this was one of Scarborough’s. And this was years ago, but apparently at the bend where Gaston Avenue comes down, there was a large area, and there was a pool there. He never gave me a name, but I know that it was, from what he said, apparently, a lot of Austinites went down there and learned to swim."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "19e04cac-86a8-4fff-99c8-30092e81124b"
+    },
+    {
+      "start_time": 290,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that was sort of where the dog park is now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "bdc8ae9d-3c7c-41b4-8e06-039f18e8c4a4"
+    },
+    {
+      "start_time": 292,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, but not quite as far as the dog park. It was just before, um... It was, well, there's a bridge that south bridge. It is north of that south bridge-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "a4db8b92-2c18-4105-b6ce-000ae6682c27"
+    },
+    {
+      "start_time": 302,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, in between the two bridges."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "901bf90c-2448-4e02-80ed-53714c6b09f9"
+    },
+    {
+      "start_time": 304,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yep. And when the WPA had come in during the depression and put in a… what they called a ‘bridal trail’, all along Shoal Creek, the… Shoal Creek itself, well, it was a big change. We would cross basically where the bridge, that south bridge, is now, and then went right up on the block. They took out a lot of that and moved the creek around, and they moved the creek in a number of places. But anyways, there hadn't been a swimming hole there. I don't think anybody's been swimming in there for ages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "51472f5b-296e-4121-ba96-0732a024746e"
+    },
+    {
+      "start_time": 335,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5bf1281c-284b-4607-b86c-a90d5256949e"
+    },
+    {
+      "start_time": 338,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was one place that early, and I ran across this and think about… early Austin and during the Republic. And it's hard to see now, because we've dammed up the Colorado, but you could walk down to Colorado, or you could come up from the south, where Shoal Creek went straight in. Now they've made a peninsula and all, but it went straight in, and it is on a solid rock bottom. And that solid rock went along, and then dropped off probably six or eight feet. And then it picked up again, and the solid rock went on across the Colorado. And of course, that was a fording place for getting across the Colorado, except they had to make a place- you had to go around, it was steep. And on one of your old maps that you have in the History Center, you'll see how the roadway comes up at one point. You have wagons in the middle of the Colorado, you have people on horseback. You have this roadway with some trail thing that came up on the east side, and came up gradually, up to the top of that hill to get up out of the Colorado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "f0ae7bd1-138a-46d8-bcc2-86e33b581cfa"
+    },
+    {
+      "start_time": 403,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, what about on Shoal Creek, sort of where Longview comes down. I see some rock benches, and it looks like there might have been a little dam there, was that a swimming area or a picnic ground?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "a537154f-2426-42d9-8ade-064366f232b0"
+    },
+    {
+      "start_time": 418,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright going to the curve, it goes, you pass, you're going north on Lamar, and you pass uh, MLK-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ac353e92-a624-4ae2-9161-4f7a6df8dd90"
+    },
+    {
+      "start_time": 426,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "24th Street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "45782111-b1e0-4881-ab9d-f6edff041a04"
+    },
+    {
+      "start_time": 426,
+      "end_time": 472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "24th street, excuse me. 24th street. And then on the left is a large Live Oak, but that was done by the WPA during the Depression. And they had, there were, I think, some other tables in there that washed out. They also had a fording spot to get your horses across. They had two ways to do it. You could go up the slope if you were walking, and then beside it, it came down in shallow steps. And for some reason, they just decided they didn't need it, [and] took it out. They should have left it, it was a part of history. But when, when you'd ride horseback down there, which they did on this trail that was put in, which was basically the Comanche trail, that was the old Indian Trail, that was a prehistoric trail. And there were places down there where they had done rock [inaudible] on the post, I think where-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "6ad5d788-223a-437d-a430-751c552cd22a"
+    },
+    {
+      "start_time": 472,
+      "end_time": 475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well that was put in by the WPA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "bf08eea7-aa34-456b-8c65-efbe293ea37e"
+    },
+    {
+      "start_time": 474,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "WPA, mhm. Sure was."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d6e14567-805c-4d16-96cb-da1959ea0b22"
+    },
+    {
+      "start_time": 476,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So was it part of the bridal path project?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9637900c-18b9-4ca9-afc7-13524bbd399c"
+    },
+    {
+      "start_time": 478,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, mhm, yeah and you could go across. You could cross there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e08fbff2-9d3a-4e3c-8c4f-f447ddd35910"
+    },
+    {
+      "start_time": 482,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, it looks like a great picnic place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4d046d05-9a28-482e-b802-2d8d66b48de9"
+    },
+    {
+      "start_time": 484,
+      "end_time": 488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it is a good picnic, pretty picnic place. (interviewees laugh)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "695b15c8-bfb6-4d02-b501-6689d93a2a88"
+    },
+    {
+      "start_time": 488,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's true. It's so flat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "25c80af1-c221-47e2-bb53-a42ff8d837b6"
+    },
+    {
+      "start_time": 490,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's interesting. And of course, there's springs. There's a good spring that feeds into that Split Rock Pool. It can kind of clear up on the west side, like the base of a sheer bluff, there's a good spring that comes down, and you can have good watercress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "4c928916-0880-4388-baba-e53e0351590b"
+    },
+    {
+      "start_time": 503,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b208e107-10c1-45d8-9b2d-b9555dfa84d3"
+    },
+    {
+      "start_time": 504,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But there was a narrow little trail through there. And years ago, I think there's one left, if you know where to find it. One of the Indian terraces. And on the east side, there had been a lot, but they took that out. It became a gravel pit as they built Shoal Creek Boulevard, which was built first, then they came in later, and they built Lamar. And prior to that, you just didn't have anything. And these were terraces probably, I guess, from here to the front door, and then taper down on the side and they'd pitch their teepee in the drainage. And they were perfect as ever here. And then the sides [interviewees cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "a6f57aac-60d1-4848-b231-e48788b0be73"
+    },
+    {
+      "start_time": 542,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Were about ten feet?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "89593720-19e3-463b-aaa2-83da20d08478"
+    },
+    {
+      "start_time": 543,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About that much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b0e01345-077d-447b-bcae-53648aef2092"
+    },
+    {
+      "start_time": 544,
+      "end_time": 546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmm. And where was this? Along-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0689fb7e-53d4-4b7b-8920-214a19170447"
+    },
+    {
+      "start_time": 546,
+      "end_time": 573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well this, the one that I saw was just south of 29th Street. They were some of them on the east side. The city went through when they brought a change. They changed the route of the creek right there, where you were talking about crossing over- that, that was changed. Um, and that whole area sloping up to the, to the top, where the senior citizen center is, was just a clay and it was, it was shaped."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "b6a60da2-fc17-4331-af17-a049447ba4a6"
+    },
+    {
+      "start_time": 573,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I don't, you know, I didn't realize at the time what it was. I didn't realize until years later, I was out in the hill country, and one friend showed me a bank, and it was the same thing, the same. But I had seen three of these, one that the city took out, and the trail was put in, the delta went through one. We didn't know what it was. And then later I found the one that's right up under the bluff. And it's it was then very easy to see. Now it would be very difficult to see because it is overgrown."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "c7e6ecb6-7da0-4d57-a7a6-a5af531c296c"
+    },
+    {
+      "start_time": 599,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, interesting. Well, right above that area that we're talking about, north of 29th and I mean 24th and Longview, one of our city maps shows that as a dump area. Was that area used- [interviewees cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b2e409e5-cfe5-4275-ad55-833bbd605fe1"
+    },
+    {
+      "start_time": 615,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, they dumped. They dumped off on the east side. I don't remember their dumping, but I could see where they dumped. And I know that on the west side, Max Bicker told me, on the west side, high on the bluff, they there was an abattoir or something at one point, and they'd throw all the parts that they didn't want over the bluff that would be right there at 29th street. But on the other side where, what is it [inaudible street name] drive, something isn't it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "4c666cad-9567-44ca-b5b5-dfc3101f4ce9"
+    },
+    {
+      "start_time": 639,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0741172d-5222-4ee0-9c15-f37e810f1578"
+    },
+    {
+      "start_time": 640,
+      "end_time": 642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And up at the top of the hill-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "936a0d44-6206-42cd-8d9f-1a240aeb3539"
+    },
+    {
+      "start_time": 642,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was an abattoir up there, huh?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "38296a0d-334a-4cac-a6e0-05c2f13db121"
+    },
+    {
+      "start_time": 644,
+      "end_time": 664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it was way out in the country. And I think about you talking about 1940 and so forth, when my parents built the house on Green Lanes, which is immediately behind us, the city limits was out here, in front was 24th street. So, we had to get a post office box. And that doesn't, you know that-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "4ee9a6c0-e049-4e83-9dca-a89d623bb6e2"
+    },
+    {
+      "start_time": 664,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is hard to imagine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a784f1b1-4800-4982-acde-67115903001a"
+    },
+    {
+      "start_time": 665,
+      "end_time": 671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is hard to imagine, the city limits was further out in other areas. Along here, that's where it was."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "f36dcc8a-594d-42ad-9618-fc2c75141d98"
+    },
+    {
+      "start_time": 672,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So when did they build their house?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e82a13ed-9d35-463c-b50b-577bcd8c2126"
+    },
+    {
+      "start_time": 674,
+      "end_time": 688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think they got the land… the first entrance in their little book of who came and who didn't [interviewees laugh] was 1931. And I think the house was built in '32 or '33. I don't know when it was started and when it was finished."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "3339a1c0-783f-41fc-8eb0-57b53100dd66"
+    },
+    {
+      "start_time": 688,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well that was right after the development started, huh?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "dd9db87b-fe89-4482-91b8-1827db7d3e6d"
+    },
+    {
+      "start_time": 691,
+      "end_time": 710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, there wasn't anything up there but the castle, and there were a couple of houses further down, down the street. One we call the 'Chocolate Castle', further down and but basically it was all open. We had pheasants, we had little bit of everything. It was, it was open country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "be2401ff-f3ae-4738-a54e-2e32e6bb3911"
+    },
+    {
+      "start_time": 710,
+      "end_time": 716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. So your area was one of the first areas to be- that Green Lanes area- was the first to be developed?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "657d3301-e35f-43af-9b80-6083074f283d"
+    },
+    {
+      "start_time": 716,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was a farm right over close to the railroad track. They still were doing some well, and I guess they owned the fields that were out in front of the castle. The castle was originally a water tower to irrigate the spinach. And Austin, at one point in its history, was a very fine spinach growing place. And they grew it all up there with those houses on that good land."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "ecf0b572-d26e-4522-8c51-f55f98323559"
+    },
+    {
+      "start_time": 736,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I heard they grew it down on the south bank of the river, but I hadn't heard about this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "6f0a28a6-3a41-431f-a2f6-f13b51eee334"
+    },
+    {
+      "start_time": 742,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well they grew, and I can't tell you offhand where I read that, but it was some… it wasn't somebody dreaming… It was actually… they were… it was a very… maybe something [that] pertained to the Chamber of Commerce, now that I think about it. But they had that water- that castle, you know, is a water tank in the center, and building out in the back was where the pump was, they had an electric pump. And they were irrigating all of that top area. Trees and houses, that was totally open."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "80579bdd-1954-428b-8b61-d1d83c28cf77"
+    },
+    {
+      "start_time": 772,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0ba220bc-c6a3-4b21-9dab-3e8bce4c0dbe"
+    },
+    {
+      "start_time": 772,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they could irrigate right up to the edge. Alright, am I supposed to get back to this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "cdf5b338-249d-4034-a131-d2304245f9f6"
+    },
+    {
+      "start_time": 777,
+      "end_time": 779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's where we are. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "975c269b-4706-443e-b8b7-262b483ef64d"
+    },
+    {
+      "start_time": 780,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you can tell me where we are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "f191a058-12ee-46d8-bb88-c11f57d071f5"
+    },
+    {
+      "start_time": 781,
+      "end_time": 796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we're at the most popular swimming holes. Okay. Well, these aren't in any order, but, um, when they built that sewer line in the Shoal Creek creek bed, was there a lot of talk about it, or was it just an accepted place?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "5e88923d-33b9-47ea-a5ea-f125d493706c"
+    },
+    {
+      "start_time": 797,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, several things in the creek bed. There was a water line that went out to Camp Mabry. I can't give you the exact date, but during World War I... at Camp Mabry, they were training... auto mechanics. At UT, they were training airplane mechanics. And they needed water at Camp Mabry. And there was a water line down there for years. It was sort of suspended up on concrete posts or something in the middle of the creek. And the line was about this big around, and it was a water line that went out there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "7a2ef456-0353-4bd9-9330-15416b6f7634"
+    },
+    {
+      "start_time": 833,
+      "end_time": 866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm sure if you knew where to look, there might be places still underneath that broken pipe. Water was very, certainly very critical. And in 19-... not sure on my date, but I think it was 1914. We had a terrible flood. But I believe just prior to the flood was when we had a terrible drought. And if you read back far enough, it always seems that when you have a terrible drought, then you end up with a terrible flood. You still seem to do it, maybe every 50 years, if you're reading, or it may be about every 25."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "568ad63a-5984-4a43-a3c2-ae019a1450f8"
+    },
+    {
+      "start_time": 867,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, when Barton Springs was bought by the city, we were in the… drought period, and it was bought for the water supply for the city. And then we have a flood. (laughter) And that was kind of the end of that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "24ce222e-7df4-4020-a7f3-e0cfca03c32f"
+    },
+    {
+      "start_time": 883,
+      "end_time": 908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we have a report in our file for the history center that is monitoring the bacteria level in Barton Springs. And then there is a report by T.U. Taylor that talks about the fecal coliform bacteria in Barton Springs. So, I mean, that's nothing new."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "0b452977-0b62-4ed4-9821-05f96dc86052"
+    },
+    {
+      "start_time": 908,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "T.U. was a most interesting man. I remember him. He walked around and... [inaudible] and has written some things that that I would like to get hold of. One, this is really off the track, and can I go completely off the track?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d7ed4ab9-64cb-4b5e-b94e-77e0f3f0b3fe"
+    },
+    {
+      "start_time": 924,
+      "end_time": 927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Sure. Do you want me to turn it off?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "56034eea-d91a-48eb-ac11-e7fbf36124d1"
+    },
+    {
+      "start_time": 927,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, you can leave it but you will probably want to cut it out later. If you cut something out, it has nothing to do with this area. I'm going up the Colorado,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "c6698451-be46-4aaa-87cc-87b727bf400d"
+    },
+    {
+      "start_time": 933,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "988f8c68-ecd4-4061-8f5a-f8d256bc4a29"
+    },
+    {
+      "start_time": 933,
+      "end_time": 966,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some place called Santa Monica Springs. And this is 1890, was 1890. Uh, and there was an article written by one of our newspaper men who was sharp and so forth, some years back, about Santa Monica springs. And a man who had bought the springs... and was deciding to bottle the water for health purposes. And he, he named it Santa Monica Springs, it was Santa Monica water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "e8bdc03a-2c60-49ee-ae4f-99e4ad8bcb4b"
+    },
+    {
+      "start_time": 967,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, he thought he wanted to have it analyzed. And the History Center has it somewhere, the picture of the spring, the name of the chemist from UT that went out there in 1890 and analyzed the water. Letting us know all the things that water killed. The whole list, the whole bit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "03cd6ec4-ae24-471f-a1c4-9da15ae651b2"
+    },
+    {
+      "start_time": 989,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then a man went out at the same time, and looked at carving on the rock and identified it as Spanish carving. Early Spanish carving. And it was a date. I didn't keep the article. I went back and tried to find something about it, because the only date they could fit was one of those early, early explorers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "603b9c18-1de5-46a3-943a-d0b35e58c58e"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The 1700s?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "69aa0bd8-51b3-4099-af50-2a9c2ebee846"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, this is 1500s"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b6284e4c-e8ee-43ab-878b-e4bf2531d215"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, my!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "96e555c8-87fd-49b9-969d-68c419ff1b62"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As I recall. So, we went out looking for it, and of course, it's now in the bottom of the lake."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "bf682a4a-ba7d-4976-b4a3-3ceed8d2db83"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, where, where along the lake is- [interviewees cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "60d9224d-249d-4b9e-8bff-ddd7753a3c5b"
+    },
+    {
+      "start_time": 1022,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's this side of the dam that makes Lake Travis. If you go up, you'll go up the regular way. And it's about two or three miles this side. It's across… There was a real estate development on one side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "8f8bee27-ce68-4bdd-a457-25a40acb0a47"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I went up one year with George Knowles' grandson, in a flat bottom boat. The lake was drained, and I figured, if we could find anything, we could find it then maybe. But of course, the silt is probably four or five feet deep. And then the spring has probably been suffocated."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "1ddf3f48-610d-4391-9175-8b47392466c1"
+    },
+    {
+      "start_time": 1056,
+      "end_time": 1065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can kill a spring. If you have it in the bottom, and the weight of the water pushes all that water back somewhere to go out someplace else, and you can kill a spring."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "8e11d6e7-8de2-4504-9600-6001d0f3f2f5"
+    },
+    {
+      "start_time": 1065,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I was interested in the spring, I was interested in 'what was that carving?' And also a comment somewhere about the two, how do I describe it? Storage tanks that were dug into the ground, like big cisterns. And I had run across these somewhere and something that said these, in fact, saw pictures somewhere and advertisements for one of these archeological firms. And showed these, showed these things in another location."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "5e074189-7693-4730-9b3d-85d8ef49061e"
+    },
+    {
+      "start_time": 1098,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, it's, it's this side of… let's see… the lake's what, 22 miles long? It's probably 22- isn't it? Are we 22 miles from here, maybe up to the next dam?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "bb63a9e5-9a12-4523-acae-fee370cec93f"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "40e3c33b-97ef-4546-bd14-d5411df11cd7"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think so, it's close. That's close. I think it's more like 20 miles up from here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "43535d08-1c19-41fe-ada7-cb00786f086b"
+    },
+    {
+      "start_time": 1113,
+      "end_time": 1114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, so that is far up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "fe31979d-c5fd-4cbc-9532-3eeeb6221118"
+    },
+    {
+      "start_time": 1115,
+      "end_time": 1115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's way up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5f709cc9-3111-47d8-a0a4-ce1b29e4e3b9"
+    },
+    {
+      "start_time": 1117,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's way up. And I did try, and I read stuff to see if I could find something, and never found anything. And, there was no… the man who it wrote died, and there was no indication- Oh! but what I was told, this is what got me off- when you got me offline."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "101808f6-6d6c-44f6-bd45-f950c81b3abe"
+    },
+    {
+      "start_time": 1133,
+      "end_time": 1098,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So this is about two or two and a half miles north of Tom Miller Dam?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "af20fada-f0d9-44d5-b8c6-8fd2e6942d1c"
+    },
+    {
+      "start_time": 1135,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I did, back to you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b955efe7-adc3-4eda-9e59-0afc2e64f7cb"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taylor, that back at this point in time, he was interested in all kinds of things, and he was studying the river, and he was studying the tributaries and studying the creeks for silt. And I was told about that they had, there's several little books that he wrote over at UT, and that if… somewhere, he would be the one person that you could find material that probably, if he'd found something like that, he would have put it down and he would."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
+        }
+      ],
+      "uuid": "6e9ba5bc-f307-4e29-a3c4-0798c70c03ea"
+    },
+    {
+      "start_time": 1165,
+      "end_time": 1167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I know we have at least one of those books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c2e17262-8656-4b4f-a369-d34e11c5d392"
+    },
+    {
+      "start_time": 1167,
+      "end_time": 1190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I went over there. Where did I go? I went, I guess I went to the engineering building. Anyway, and got one and read it. But it didn't help me. It was wrong. I couldn't find one that was the right area. There were a lot of them on different creeks that he had, and, but this, this is very, very, um... it's, it's just this side of the property line to the Steiner Ranch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "d29584c0-41df-4865-926d-495eee254eac"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, the city owns the land right along the river, and they’ve probably subdivided it now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "3100fa1c-6bbf-4fc3-becd-05e7663d9799"
+    },
+    {
+      "start_time": 1202,
+      "end_time": 1204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So north of Emma Long Park?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "10862486-ce99-4c2f-b8e7-e2d3ebbcbf66"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. We're not going to get off on that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "b5587c49-46f7-45c3-bce9-ddab0edff9c9"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "81234a08-094b-4357-a291-b1409322b8b5"
+    },
+    {
+      "start_time": 1212,
+      "end_time": 1217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it's, you know, it's so intriguing, and it just… it's like this tombstone here, I never thought-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "a7414f06-7c2b-49b4-94da-429e35c29eb8"
+    },
+    {
+      "start_time": 1217,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a great mystery."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3864b15c-5e67-46f6-b99a-415f871bc04c"
+    },
+    {
+      "start_time": 1219,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, but I think one of these days, somebody's going to be down there with the dozer and go fall in one of those tanks. Those storage tanks. And somewhere, I don't know whether someone told me, whether I read it, or if it was imagination, but one reason the storage tanks could be in a place like that was to save water. If they had a problem, if they thought the river was going to dry up or something, if they had water. That was, I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "834caf15-bc75-4f2d-8082-2fc58c124501"
+    },
+    {
+      "start_time": 1243,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, where we started was, if you remember anything about when the sewer line was installed in the creek bed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "44c725e5-404f-49db-8c57-1cdc893a5be4"
+    },
+    {
+      "start_time": 1251,
+      "end_time": 1256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just remembered digging- that they were down there, digging the sewer line, and that um-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "b35dd00b-00fa-4e79-9fbf-e7df7557989e"
+    },
+    {
+      "start_time": 1256,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was like the 50s or 60s?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4a949b9b-a742-4ca7-8411-ddb8e8d18ac7"
+    },
+    {
+      "start_time": 1259,
+      "end_time": 1260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't help you on the date."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1b261cf0-6332-46bc-a7c3-8cbca5eb8967"
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's fine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "7a4e8b24-2391-415f-ad14-7a243191193f"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I don't think, well, it could have been 50 to 60s. But they dug down there before to put this pipeline [interviewees cross talk] because that water line, and I don't know, I just, I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "Infrastructure"
+        }
+      ],
+      "uuid": "b87820be-73ad-4a9d-aa42-c752c73e4a91"
+    },
+    {
+      "start_time": 1274,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, that's fine. Well, on a related note. I mean, you were saying earlier that the- before Lamar was Shoal Creek Boulevard, and because I live with- our house backs into the Green Belt too, I keep wondering what it would have been like when those houses were built, uh, before a busy street like that, and-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "c510dff0-8f87-4b8f-a12d-288857b43152"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was just, it was country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "fc6f26a3-6543-4b26-a329-c142cf05cdf6"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was country. And I wonder if there was any reaction by people that lived in the neighborhood to that change?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "856fb143-1e24-472a-8e20-961f5124c421"
+    },
+    {
+      "start_time": 1309,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No there weren't that many people. And it didn't just go boom, you know, like we did when we made- from the article in the paper today on hazards over- it wasn't like that. The house was built, and the house was built, but not just a big, a big boom. And there was an active farm across from the castle starting up. Well, you've got that little one area in there. Was those two streets, but there was a farm in there just going strong."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "13909ef7-dbb3-4422-a231-d7acde38b64e"
+    },
+    {
+      "start_time": 1336,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow. When the ferry was first developed?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2e37a90c-9332-49ef-8914-cc52ba509211"
+    },
+    {
+      "start_time": 1340,
+      "end_time": 1342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As houses were going up, oh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "08dd7603-b4d8-4302-8621-5a7f38082775"
+    },
+    {
+      "start_time": 1342,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was farmland. They had been around the castle. I'm sure they had things besides spinach, but, but the spinach was very definite. Spinach, and then they had a that field was a mass of blue bonnets. And the old Driscoll Hotel menus all had a picture of the castle and the blue bonnets on the front."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "e3c50979-cbff-4145-ba17-ff7853cc7378"
+    },
+    {
+      "start_time": 1360,
+      "end_time": 1360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5d454fb7-dba2-4806-a1a7-723c51a7d94c"
+    },
+    {
+      "start_time": 1360,
+      "end_time": 1363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And if you're lucky, every now, then you'll see one somewhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a8527669-3c99-4a1c-b2d4-a2ed858049c1"
+    },
+    {
+      "start_time": 1363,
+      "end_time": 1366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well we've got one of those photos. I didn't realize [interviewees cross talk]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c4707f96-979c-4a2a-b8a8-0bcc9da2ecc8"
+    },
+    {
+      "start_time": 1366,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was there on the castle. It surely was."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "674ab006-1867-4845-8a19-3ef0a0636c4b"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Well, I ran across the next question, um, in 1956 when in the Cold War that there was a practice nuclear bomb that went off as part of a citizen training event here in Austin. And it went off, they said, above the 2600 block of Lamar. And, I just wondered what on earth a practice nuclear bomb would have looked like, and you know what [interviewees cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "82bcc3f2-0f27-48d2-8c86-25de8a9b1090"
+    },
+    {
+      "start_time": 1403,
+      "end_time": 1404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What year was this? '50?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1d59cce9-9a02-4924-a325-707785b2eaf6"
+    },
+    {
+      "start_time": 1403,
+      "end_time": 1404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "56."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "da652134-a0db-4259-a3e5-fbf51d1304c6"
+    },
+    {
+      "start_time": 1409,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(pause) I never heard-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d32ae6f1-aeb6-46a9-a69a-64312035424c"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You never heard it, okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5e0dc1ce-9cb0-4b9c-bb32-08024642329f"
+    },
+    {
+      "start_time": 1411,
+      "end_time": 1416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know where that came from. I remember the airplane that crashed over there into a house very clearly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "8d1260f5-2e0e-4e12-b56d-23c9200369ca"
+    },
+    {
+      "start_time": 1417,
+      "end_time": 1417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Really."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8b443c2c-1af9-4221-b742-5a905d4085b9"
+    },
+    {
+      "start_time": 1418,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do. And we were training pilots in San Antonio. We were training pilots from Mexico. And it was in January, it was cold, it was foggy. And I was upstairs in the house on Green Lanes, and on the, on the back side, it's really three stories high. I was up high, looking out, sort of across the creek. And I was studying in that back room, and I kept hearing this plane going around. I knew he was lost. You could tell that. And looking through the fog a little bit you could see, maybe the light on his tail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "95e33b62-eac9-410c-af7c-6c09458d143e"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And apparently, he was going around the Capitol trying to get oriented. And then we heard this terrific kaboom, and at first thought it was down here in this creek. And ran out and checked, and then realized that it was on the other side of the creek. And so, they got in the car and drove over, and turned, of course, there was no Longview street then. At this point, this was, well, I graduated from UT in '42, so this is back in, this was back probably '41, '40 maybe. I may even have been in high school at the time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "a2c04370-d56f-40f4-a564-5e14a94da59a"
+    },
+    {
+      "start_time": 1483,
+      "end_time": 1507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, about two streets over, there was… we went across… we didn't have that Longview. But today, if you went across Longview and went over… maybe two streets over, right in there, right close to where it came together, it had gone into a house. And of course, the pilot was killed, and it seems to me that somebody in the house was killed. I don't remember, but it was a real, um-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "e536eab3-8543-457c-ba9f-cc0c5018451a"
+    },
+    {
+      "start_time": 1507,
+      "end_time": 1510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sort of in that cash-carry area? That grocery store?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "40f4eae2-b8df-4299-bb91-440065134aee"
+    },
+    {
+      "start_time": 1510,
+      "end_time": 1519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no, we're not. We were just right across down at the creek, right down here. Just about two to three blocks over from 24th street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "d5077a47-84e9-4b99-8053-586cce034293"
+    },
+    {
+      "start_time": 1519,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it may have been 23rd and a half or one of those half streets in there, but it was right close there. And it was close to the bluff, probably not more than a block up from the edge of the bluff. But he just was, he was completely lost and, and simply lost it, and came down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "f366a3d2-86ca-486d-a91b-0581b4a373c4"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess he was killed. Were there other people?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d0c9132b-754e-484b-9d8b-e5bbefaa8a67"
+    },
+    {
+      "start_time": 1540,
+      "end_time": 1554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think he was flying alone. There was, I think he may have killed somebody in the house, or it may have been that, I don't know, or it may have been that he killed a child in the house. May have had a baby. That, I don't remember."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d70f7914-3b91-430d-8ee7-2c478a5413c4"
+    },
+    {
+      "start_time": 1554,
+      "end_time": 1555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I haven't heard about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "926f125c-c895-4802-956e-9ab782b7c4ff"
+    },
+    {
+      "start_time": 1555,
+      "end_time": 1563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just remember him going around and around and hearing him, and then finally hearing him go down and then going to... (she trails off)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "d5a47f22-d932-4467-995a-06c9a48739b9"
+    },
+    {
+      "start_time": 1564,
+      "end_time": 1587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, well, I had never heard that. I like hearing new things. I have tried to figure out for a long time where, you know, if that old Henry cottage was somewhere in that Goodall Wooten Park area, and before it burned, and I'm wondering if you could show me on a map where in that area it was?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4db9296d-3f05-4fe8-a8c2-a63c73ded3f2"
+    },
+    {
+      "start_time": 1587,
+      "end_time": 1591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the Wooten Park, you mean when the Bohemian building was moved in from where it was?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "97a1085c-6b56-48ac-a0f2-30e8cd7130de"
+    },
+    {
+      "start_time": 1592,
+      "end_time": 1597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was right down here at the bend in Shoal Creek, where Gaston comes in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "05e37782-7a55-4bf0-9020-9fc2c541cdca"
+    },
+    {
+      "start_time": 1597,
+      "end_time": 1598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where Gaston comes in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "aa414ef8-a26f-456a-b31b-fea93be36c2d"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was on this side of the… it was on the east side of the Creek. I remember that very clearly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "40a38bec-2252-44c0-af4f-68823224fb5e"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, on the east side of the creek. Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "709e2002-7874-4468-9978-2fbfbf7ea9dc"
+    },
+    {
+      "start_time": 1605,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, let me see. Let me stop and think of the way that creek… because it was changed… No, it would be on… it would have to be on the west side... Um, Gaston comes down, it was on... well, you know, I'm not sure, because they did move it. It was, I think it was still on the west side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "b1321577-a3e3-4b95-816a-10d89bc525ec"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So there's a parking lot down there. So somewhere in that parking lot?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5a5419b0-84ef-4668-a66e-89d121b6c1c6"
+    },
+    {
+      "start_time": 1632,
+      "end_time": 1644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's where… you have… if you come down to Gaston… and of course, you know, it divides, and it was between those two bridges on the on the east side (pause)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "d4b119d8-0b94-459c-b912-87ac3188e6da"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "West side?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1a5cf299-5f1a-4a18-9bf5-5e10f2229ba1"
+    },
+    {
+      "start_time": 1648,
+      "end_time": 1649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was east side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2779ac65-aeb6-4f99-a52a-a9d10996c004"
+    },
+    {
+      "start_time": 1648,
+      "end_time": 1649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, east?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "86846072-ec20-4a47-a40c-6d8bec1e9b3b"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See that's where they moved… they move that…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "57d8d3c4-dd73-4e13-b171-63d8789cd748"
+    },
+    {
+      "start_time": 1652,
+      "end_time": 1653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The creek?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8704b6f3-865e-4e29-b626-d2fa538d5b69"
+    },
+    {
+      "start_time": 1653,
+      "end_time": 1660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And there was a flat area that the city painted trees in that comes up to Lamar now, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "6a30811f-2ff2-4bc0-8bf1-9790b8c594b1"
+    },
+    {
+      "start_time": 1661,
+      "end_time": 1673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think it was right in there. I believe the creek was behind it. If I looked at it, I would be sure. But yes, I do remember that very clearly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a48f3c5e-23b3-4d6d-aceb-32690ff919ff"
+    },
+    {
+      "start_time": 1676,
+      "end_time": 1703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the things that I was really intrigued by when I was looking at the advertisements for the Pemberton Heights neighborhood was how they really seemed proud of the fact that there were mansions next door to cottages, and that's so unlike real estate advertising today [interviewees laugh] I'm wondering if it was common back then or if it was a normal thing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e357d232-48f8-4326-9e43-3351a6ee1611"
+    },
+    {
+      "start_time": 1704,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I never even thought about it. I never even thought about it. (long pause)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "87c4a06f-30ed-44cb-ad78-84c7f61acffe"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Pemberton Heights, and I don't know what the restrictions were... I didn't… I was too young to pay that much attention, but, they certainly were oftly nice houses. And there was something written about Pemberton Heights in some national something, came up the other day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "6824ebc7-9fba-41eb-91c5-df1ef90f7c7c"
+    },
+    {
+      "start_time": 1734,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course, Pemberton heights stopped, went on into… what's the next area called where you get a-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "aa5673ec-86f9-421d-84bc-6935174438a9"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bryker Woods?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "377e6ef6-4528-4aa5-9f3f-64ca0c6abb25"
+    },
+    {
+      "start_time": 1741,
+      "end_time": 1763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bryker Woods, yeah, and, and it was different. The requirements were different. So it may be that, in looking at it, most of the houses were two story houses. And it just may be that somebody looking at it was also taking in the Bryker Woods, which is so pretty... and I don't know… I don't know about that [interviewees cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "13ac3de3-ee8b-488c-88c1-44fe46e4249a"
+    },
+    {
+      "start_time": 1764,
+      "end_time": 1791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, well I find it so intriguing, just because it's so different. So you mentioned your parents house on Green Lanes, and you had a friend that lived next door. I can imagine, because of the way the Green Lanes cul de sac is built, that you all would have had a fair amount of interaction with one another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "abfab988-5ae2-44e3-8f73-73e23a66189c"
+    },
+    {
+      "start_time": 1791,
+      "end_time": 1815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, it was always… it's changed now because some of the old ones are gone. But for years, everybody was very close. One of my children was playing somewhere in the area and ended up with a nice big gash. You’d think that there was two or three doctors right there on the street to [inaudible]… we had some, you’d think one of them would have been the one to sew him up, but it was a psychiatrist! [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "6e8092ee-95c2-4f5b-b946-e97dde2079ad"
+    },
+    {
+      "start_time": 1820,
+      "end_time": 1832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you kind of looked after everybody else's children. And you didn't have the traffic. You didn't have traffic on green lanes till Christmas, and everybody got a new bicycle, and all came down there to learn to ride-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "adb629f1-3440-409f-a4a7-96ccf28bb0a1"
+    },
+    {
+      "start_time": 1833,
+      "end_time": 1834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, because it was safe!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "5da7631d-bebf-4eff-b946-3f597a151e45"
+    },
+    {
+      "start_time": 1834,
+      "end_time": 1846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because it was safe. They were safe. Now they usually to go down the hike and bike trail and do the same thing. But back then, they all showed up in Green Lanes, and everyone was very close. They really were, and I think they still are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "1f31564f-30f7-43de-a988-0512408ea0fa"
+    },
+    {
+      "start_time": 1846,
+      "end_time": 1866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, we have, and I don't think this is any great mystery. I don't know that it should be generally... but, you know, we have one of the Dixie Chicks down there now. And she's just as nice as she can be, and her husband's nice and she fits in just fine. And we had had... well, I won't talk about the couple [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "eeffbbeb-6e95-4ada-889e-7b71b5e57339"
+    },
+    {
+      "start_time": 1867,
+      "end_time": 1868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Want me to turn it off?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2a77a496-1a7b-4524-aed7-6e2b352c222e"
+    },
+    {
+      "start_time": 1869,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no, no, but it's so… people, you really do, get involved with each other. And, and it's a good thing. It's a good thing. And if you watch if something that looks strange at the other person's house, you go check on it. I caught Bob Armstrong one day when I thought somebody was breaking in the daughter's house, and the alarm went off and no one was around. And he'd gone in to see what was going on, too and got- [audio stops]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "cbe82d70-eae5-4a64-b9f6-b3ab1c45ffe8"
+    },
+    {
+      "start_time": 1903,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[recording opens with context of how long the interviewer has lived in Austin] Since 1981 a little over 21 years. And I'm struck by when we first moved in, we were among the younger people in the neighborhood, and I know we're 20 years older now, but nowadays, I think there's only one person on our street that's been been there since almost the beginning. And all the new people are young families. So, the nature and character of the neighborhood has changed a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "246c0045-0b91-4d92-b1b2-fb7707a37ebf"
+    },
+    {
+      "start_time": 1937,
+      "end_time": 1971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'm sure it has, and that and at one point, everybody on Green Lanes was first, second, third generation that had just been there. Now I think we're probably the oldest. The Schneiders have been there for a while, but we were there long before the Schneiders were. That was a vacant lot, and Paige was there. And of course, they've been gone. And people do get old and die. Houses get sold. [inaudible] you want me to look through this. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "0bbf2104-2112-4466-b0ad-af062115e570"
+    },
+    {
+      "start_time": 1978,
+      "end_time": 1988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have another question that's about the Franzetti Store. I'm wondering if that was a store for just that neighborhood?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "85f28e3d-0934-42d5-85f4-cc3851d7daa5"
+    },
+    {
+      "start_time": 1988,
+      "end_time": 2012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It took care of Wheatville, and the Franzetti's... I was in school with Mary Franzetti, and she had an older sister, and then there was a brother. I never knew the brother, but the older sister… Um, they were Italian. Was sharp, sharp. She was good looking. They're all good looking people. And she had, she worked for some firm in downtown Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "2f92c824-436a-4849-9138-2cb37ebb1e5f"
+    },
+    {
+      "start_time": 2013,
+      "end_time": 2036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And during World War II, and everybody was having to, you know, we did anything that we could possibly do to help. We had these servicemen sent us around town. We had one in the Driscoll Hotel on the bottom floor. And I remember she was one of the ones that was down there. We'd all go in certain days when they'd need us, or they have an extra load. And it was, it was very interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "1770ec80-34e5-4c18-bc35-ed49bfaa02b7"
+    },
+    {
+      "start_time": 2037,
+      "end_time": 2052,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she was the most capable woman. Mary was, I think, either my grade, or maybe a grade above or below. And she ended up living in the house for years. And I'm sure she's dead now, and I think the brother went into real estate. I can't remember his name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "39ec698d-7f0a-48d7-8f5a-ce8d3cb669e6"
+    },
+    {
+      "start_time": 2052,
+      "end_time": 2085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, and then, oh, Mama Franzetti was there. I don't remember the papa, but Mama Franzetti was there. I remember her very clearly. And basically, the Wheatville started down at Shoal Creek and came almost up to Rio Grande Street… not completely up… but they'd be, and some of the houses had kind of gotten mixed, you know, it was almost a mixed… when you got on the fringe of it. So they took care of all of them, and they took care of these other people that were close, like the folks on 33rd street. I mean, 23rd and 24th and…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        }
+      ],
+      "uuid": "780fc842-aa3c-4354-8e34-153ee7372e54"
+    },
+    {
+      "start_time": 2085,
+      "end_time": 2089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well where did… where did the people here buy their groceries?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "cc408670-b833-46c9-ae46-306082a633ad"
+    },
+    {
+      "start_time": 2090,
+      "end_time": 2126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we usually went in, I guess, went into Loma Slaughters on 19th Street. Um, we had shopped there before, and we knew them real well. And they lived on 23rd Street. And their children had took the, would take the wagon, would come down the hill, and they were customers of some of the women that did the laundry. Today we would call it a “hand laundry”, but, um, everything was hung out in the sun, and everything was ironed. And they were great, sweet, sweet people. They rang the bell in the church regularly. A nice sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "f8fd87a8-cff9-489a-b2f4-38869d059207"
+    },
+    {
+      "start_time": 2127,
+      "end_time": 2137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, um, we, I don't remember... I, oh, I think we went in the store. We certainly knew them, but usually the things that we particularly wanted, maybe they didn't carry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "7a2fec70-a1fc-4a6e-9449-517dbdaefe3c"
+    },
+    {
+      "start_time": 2138,
+      "end_time": 2144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. I knew it was a grocery store. I just didn't know how it fits."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "40a13480-fead-40de-96b3-dbe6ac2b8b35"
+    },
+    {
+      "start_time": 2144,
+      "end_time": 2174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's so interesting. And the family was interesting and very likable. And uh, and I think, probably very capable people. It's a wonderful old building. The icehouse was out to the right. The back part of the icehouse, I think has been torn down, but I believe that part that come tall like this and has a door still [inaudible about icehouse]. Because you had ice… you didn't… nobody had refrigerators, so you had to buy 25 pounds, 50 pounds, however, they had it cut. 20 pounds, maybe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "3ca04c15-f941-43c2-9c92-6b4e22f7db76"
+    },
+    {
+      "start_time": 2176,
+      "end_time": 2190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, my last question, I guess, has to do with something I had not known about till recently, and that is a proposed golf course that was intended to be laid out along Shoal Creek…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "16d0af68-7b56-4bf8-9808-566ec9026cb5"
+    },
+    {
+      "start_time": 2189,
+      "end_time": 2218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Will Caswell. He was a remarkable man, and 15th street goes right smack through the middle of one the Caswell houses… Will Caswell's house is the one that's there today. And on the, on the north side, you have Will Caswell's house, you have 15th Street, and on the South side you have, um... Brenazir. And Brenizer, Lester Benazir, who the was most interesting man, was Vivian Caswell, Miss Will Caswell's brother."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "014876de-2594-4546-903a-7e850f313e7e"
+    },
+    {
+      "start_time": 2219,
+      "end_time": 2239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Caswell was one of the few people, see all of this period you're talking about- wasn't great wealth in Austin. A lot of things were done for Bev Sheffield. We couldn't have managed without Bev Sheffield. He was unbelievable in his dedication, in his foresight, in what he did in saving things and our park system and all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "194b7bdc-260f-497d-8fa5-edbf2cbf75b9"
+    },
+    {
+      "start_time": 2240,
+      "end_time": 2252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And men did a lot of things, not so much for their personal gain, is... they did it for the city. They did it for everybody. And Will Caswell was very much this way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Spirit"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "faa8c8f8-5bd4-48fe-8458-45c24f217dad"
+    },
+    {
+      "start_time": 2252,
+      "end_time": 2305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now we needed a… we needed some kind of an athletic club. He built this wood athletic club down here. Um, now, I understand, and I think Bev told me that the city, well, Caswell was... head of the... what do they call it? The Parks Board. It's a volunteer of some people for a long time. And, um, I think Bev told me that… the city was so anxious for a facility down there, and they made some, gave him some kind of tax relief on it, and then he built it, and gave it to the city. When Brown and Root wanted to build tennis courts up here where these tennis courts are. Will Caswell said, “don't sell this land. You're not going to get more land. I'll give tennis courts,” so he built the first tennis courts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "1bc8e799-c16a-4de8-bca9-681ff7ed9836"
+    },
+    {
+      "start_time": 2305,
+      "end_time": 2308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So they were thinking of building tourist boards?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "acd032b9-350c-4d75-9389-17b980c57836"
+    },
+    {
+      "start_time": 2308,
+      "end_time": 2318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tennis courts, you bet, you're gonna have tennis courts. And the first tennis courts weren't as large as this. You know, I mean, they had, I think two courts or three courts paid for, and that stopped it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "43ce5697-93fb-41ea-b0df-451936d2fc0e"
+    },
+    {
+      "start_time": 2319,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he envisioned a green belt all along the creek. And of course, you think of one, usually the prettiest thing you can think of. Oh, it was just beautiful grass, and a mixture of grass and rough stuff over here, and a few trees you missed. So you think, think of kind of a golf course, cause it's laid out. It's not rigid, it's more natural. And, um, and he thought of that very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "518f0201-af23-4f04-a765-02ae532e45a6"
+    },
+    {
+      "start_time": 2341,
+      "end_time": 2376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one thing I cannot remember. Now the Goodall Wootens gave the land at um, at the foot of Gaston. And I'm sure that Will was probably the one who dealt with the woman who gave the land for Lamar Boulevard. On Shoal Creek was first, but Lamar Boulevard here at 24th Street. And I cannot think of the name. I think of it when I don't need it. Um, I believe that she was very much involved with the women's club up there at San Gabriel. And possibly if I went up there and looked at the names it'd come to you. But anyway, that part was given to the city."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "1ecb05be-690a-40f8-9997-8c32e80cf165"
+    },
+    {
+      "start_time": 2377,
+      "end_time": 2406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And… and Will Caswell would inspire people to do things. Like, he could call Goodall Wooten and say, \"Look, we need this land here. Why don't you and Sissy give us this land?\" And… and actually, she was in California and was visiting me when the phone rang one day and somebody from Austin called and, and, and I think he'd… he'd already died, and she… she said on the phone, she said, \"Yes, I want to give that land, in Dr. Wooten's name”, and it was the land up there in Caswell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "c1f7f84e-aa77-48e0-a66b-d2dd7794c3e7"
+    },
+    {
+      "start_time": 2406,
+      "end_time": 2407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "42c83b44-c853-42ab-ad04-9b6b88e1cb85"
+    },
+    {
+      "start_time": 2408,
+      "end_time": 2455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Will Boseman, what he… um, built a road at the top of Mount Bonnell. And wanted to save the view from the top looking out and not have houses along there. And of course, we had a big to do over that. Everybody stomped around, and cause they turned it over for development. But they rode... [inaudible name] rode, campus there, and I rode over in a, not a Model T, but it was almost a Model T. It was something to that caliber. And it was scary, it was steep, and it was scary, and you were way high up. But his dream was to be able to get high up and look down and see what was, what was there, and enjoy it. But he was a remarkable man, and did an awful lot for the city."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "c124da73-4342-4e22-9847-ea80c13f5af1"
+    },
+    {
+      "start_time": 2455,
+      "end_time": 2457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So was the golf course his idea?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "afd65e36-73e0-4a22-b92f-b87e1fac97c3"
+    },
+    {
+      "start_time": 2457,
+      "end_time": 2495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, the golf course was his idea. He was interested in tennis primarily because his daughter… I can't remember. Anyway, his oldest daughter, married, um… And I hadn't thought of this in years, married a man who had won at Wimbledon. And there was a woman, not the man's wife, it was Will Caswell's daughter. But there was another woman that played with him, and they had won doubles too, and he was really a hot national, international tennis player. And Will Caswell was very interested in him and very interested in tennis courts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9ffc3291-848e-418b-ac5d-230211ea8624"
+    },
+    {
+      "start_time": 2496,
+      "end_time": 2530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they had a place in Harrison, Maine, where we spent part of the summer one year. We knew them, and were crazy about them. And, they had the finest court up there in that area… because they would, yeah they'd spend the summers up there. And he… she would. He'd stay here sometimes, and I mean, he wouldn't, couldn't spend all summer. But they were the first people I knew that had any kind of… radio system... a shortwave radio, where you could call from Austin and talk to Harrison, Maine, which is way up in the middle of nowhere. And keep in touch, which they did. But, all right, go on there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2878e3d9-5be5-4540-b164-bad70ae1bf00"
+    },
+    {
+      "start_time": 2531,
+      "end_time": 2535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'm wondering what, why the course was never developed. I mean, what happened?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ec0915e4-d6bb-4fe7-a23d-cce3766e454c"
+    },
+    {
+      "start_time": 2537,
+      "end_time": 2564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the one, the one demand in the neighborhood... See the one we were... This came up, when we were still outside the city limits a lot of places. And there weren't enough tennis courts, I mean, enough of golf courses. And they just didn't need… they played out at Muni. Most people played at Muni, and they played at old Austin Country Club, which was up way up north, as you know. And that was it. So, there was no, there really was no need."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "2e49e29a-b185-4e51-b9ae-db65cdc78116"
+    },
+    {
+      "start_time": 2565,
+      "end_time": 2583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was needed more was a place for people to get out and walk. And then when the WPA came in, these people all on fringes out here… had horses. And they'd go down there and ride. And they put in that riding trail bit, and then during the war, it really disintegrated. And, um-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        }
+      ],
+      "uuid": "9a8ed6f9-99ff-4217-b50e-b1024aada1a1"
+    },
+    {
+      "start_time": 2584,
+      "end_time": 2589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So is that is about the time that Shoal Creek Boulevard was built?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2b4152e4-0b16-4e11-a266-59b087fa9c1c"
+    },
+    {
+      "start_time": 2595,
+      "end_time": 2643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't remember when Shoal Creek Boulevard was built. I know that Lamar was started… They were working on Lamar... the early 1950s. I had lived in California four years… and came back in '49, the end of the summer of '49. And, um, I know that they were working on it in '50 and '51. And I presume that they started probably about that point, about '49 or '50. But that was Lamar. And, Shoal Creek Boulevard was there… maybe in high school. Yes, when I was in high school, it was there in the 30s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "2ebbc273-272d-44ea-beaf-c50e82b4a178"
+    },
+    {
+      "start_time": 2643,
+      "end_time": 2650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And of course, we had no 15th street. You hit the bluff and dropped off. And sitting on top of that bluff was that second Caswell home."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "3ecf7f2d-7e3b-4583-b117-d6ab0a99c0a8"
+    },
+    {
+      "start_time": 2650,
+      "end_time": 2651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9075172c-9d5b-4687-bf37-285f2ad12d7a"
+    },
+    {
+      "start_time": 2652,
+      "end_time": 2660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, so, it was a dead end. And it was somewhere in the, probably in the late 1930s. Somewhere in the 1930s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "79759bf4-37e1-4b0b-b2d6-48ca488530ef"
+    },
+    {
+      "start_time": 2660,
+      "end_time": 2666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, okay. Well, those are all my questions. Tell me about some of the things you wanted to say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c0098ac7-f4e7-4acb-b9b6-fc08d9090e50"
+    },
+    {
+      "start_time": 2666,
+      "end_time": 2674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I don't know. Let me see. Well, I'll just glance here, right quickly. Um, you wanna know about some of the people that basically lived in the area?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "00c7d90c-35c8-4cc2-b823-8b0f2787e9cc"
+    },
+    {
+      "start_time": 2675,
+      "end_time": 2675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would love that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8606d928-4433-483f-9360-7a6ba57c7717"
+    },
+    {
+      "start_time": 2676,
+      "end_time": 2709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Let me start here, if I can read my writing. Lucille Morley, you ever hear Lucille Morley? Yeah. Lucille Morley, wonderful character. And their house, I was going to drive by so I could tell you exactly. The house is still there today. She's been dead for a number of years. Her father had Morley Drug Store. And if you drive down Sixth, East Sixth Street, look on your right and look up, you'll see Morley Drug Store. This Grove drug store, I got with them a few years because they had horse medicines. And- (long pause)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "52e6616c-4896-4d40-98b9-11ae398aeef7"
+    },
+    {
+      "start_time": 2712,
+      "end_time": 2731,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She, well, I don't know what to say about her except she was extremely interesting. A most interesting person. And, what does this say down here? Well, I said, 'go check her address for you' Well, I can't do that. The... up above the Grove, drug store, Morley Drug Store, ole Henry lived at one point."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "ac0141b5-1593-4db7-a3be-ace2695a4d7d"
+    },
+    {
+      "start_time": 2732,
+      "end_time": 2737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we actually have the Morley brothers papers in our, as part of the old Henry collection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2237c4db-001c-4a73-a6b3-f448bafcbaf0"
+    },
+    {
+      "start_time": 2736,
+      "end_time": 2761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, well that's who she was. And the house is still there. And somewhere, I believe, in the same block as the house... And I remember, a couple of years ago, the Heritage Society honored it, and I thought, 'I'm going to remember this.' I didn't write it down. It's a wonderful two story house. My first reaction is to say that the Rhodes had built it early. It was a house built probably in the 1890s or maybe early 1900s but I don't know anyway, um-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "bf95e5ef-94b5-49dd-b1ca-60ad4d3d4961"
+    },
+    {
+      "start_time": 2761,
+      "end_time": 2762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this neighborhood?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0677b668-88a7-4eac-aeb7-60ddd42c8711"
+    },
+    {
+      "start_time": 2762,
+      "end_time": 2769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just around here by Lucille Morley, I mean, I'm thinking close to the, close to the creek area. Alright (long pause)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2cbb7aed-6009-4ece-94e4-627f104c03be"
+    },
+    {
+      "start_time": 2770,
+      "end_time": 2790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then you get off at an angle. I get interested in the places in Austin that are built out of what's left of the colonial capital. But that's completely off the track here. So just think about that. There are some... (long pause)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "fe6c53ab-900b-4c73-bce8-753cbb65d1ea"
+    },
+    {
+      "start_time": 2795,
+      "end_time": 2819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comanche trail. Well, you knew that, we already talked about that one. And Lewis Street was Lamar, and there was a drug store, a grocery store, at some point, I think, close, close to 12th Street. Now, you know, or maybe you don't know, there was a terrible flood in 1914. And the Ninth Street Bridge was under construction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "fd888a28-c6b7-48f4-8c75-adbddcea43d5"
+    },
+    {
+      "start_time": 2820,
+      "end_time": 2821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, at that time?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "3a4709bb-9b06-462d-a562-120416b87176"
+    },
+    {
+      "start_time": 2821,
+      "end_time": 2843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it was under construction. And one reason so many people would drown down there, the they had board framing on the sides. I mean, it was really not totally solid, but it was enough to catch debris. And when the water came down, it just acted like a dam. All this stuff piled up against it, and it flooded the whole area. And they lost a lot of people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "130b1cb4-42a4-44cc-bee9-17dc5d1620dc"
+    },
+    {
+      "start_time": 2844,
+      "end_time": 2868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good. Let's go back to that grocery store. One story I'd heard, and I don't know if it's true or not, is that The Tavern at 12th and Lamar was originally built as a tavern, but then prohibition came in, and that's when they turned it into a grocery store. And only years later, after Prohibition was repealed, did they..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "563a57fa-523f-409c-bb70-0c1aa0de1102"
+    },
+    {
+      "start_time": 2869,
+      "end_time": 2893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know. I've known the Tavern forever, and actually, the Tavern was owned by Mrs. Pease. It was in her name. And it made it... there was, there was, some… It was certainly down there during all this flooding. But this was a small kind of, maybe more like a convenience store. We had a few of them scattered around in residential areas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "80124bf1-3f44-4d13-97a8-8bf8f3eed1fa"
+    },
+    {
+      "start_time": 2893,
+      "end_time": 2932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first one I remember was over there by Dr. Goodall's place, two blocks from him. And it was run by a man who was a veteran from World War I. He had one leg. And he had this little bitty convenience store. And I don't guess anybody worried about, you know, restrictions or anything. And everybody went in, and dealt with him. Um, but I don't know about that. And it could be, I remember it as being certainly had prohibition, and I don't think I paid that much attention because of they had a restaurant in there. I think they've always had some kind of a restaurant. But I'm not even sure about that. So, I'm no help."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "cec90982-a3a9-468b-81c2-c2414f827561"
+    },
+    {
+      "start_time": 2931,
+      "end_time": 2938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, that's fine. Those are stories that you hear and you never really know how much there is to em."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d8d62c61-843f-4384-8023-acb2e12e4b2d"
+    },
+    {
+      "start_time": 2942,
+      "end_time": 2899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think... 15th street... I mentioned Lucille Morley. And basically, across the street from her, going up the hill. And I can't think of the name, but it may be Blanker, but I'm not sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "80aca2e8-1073-4ef5-8e68-eb998d448015"
+    },
+    {
+      "start_time": 2960,
+      "end_time": 2974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the Schmidties family… um, these were real fine residents. This was real fine residential very way back. And the Schmidties family, one of our German families... it's interesting, in relationship to the symphony."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        }
+      ],
+      "uuid": "7ed2e4d3-0c2c-4d56-a08c-da5f114233d5"
+    },
+    {
+      "start_time": 2975,
+      "end_time": 3003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Curtis, I was in school with Curtis. And me, my brother and I used to go up there and play, and Curtis played the first piano concerto, as I recall, way back, way back. And he had a sister who played for years, up until just recent years, played the violin in the symphony. And his Papa played the bass violin... I think. Everybody played except Mama, and she ran the business office. (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        },
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "4007396e-6bfd-4f01-9f03-078e85974bfc"
+    },
+    {
+      "start_time": 3006,
+      "end_time": 3015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Jane Smuth's house is there. Again, it's in part of the same area. [interviewees crosstalk] Let's see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "f111b0bb-9331-48bc-9f1c-3dce01c2a20b"
+    },
+    {
+      "start_time": 3015,
+      "end_time": 3017,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that's the area you're talking about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "e8a4fd5e-e06a-42cf-a31e-93e24069f2db"
+    },
+    {
+      "start_time": 3017,
+      "end_time": 3022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, the right, right in there, that area, it's off from the creek, but, um (long pause)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ae206e75-5178-4dfc-a502-9e423c1d58fa"
+    },
+    {
+      "start_time": 3028,
+      "end_time": 3057,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think, maybe I didn't say that part of Pease Park... the creek was changed, besides Pease Park. And now where the creek is (pause). Well, the creek used to be where, where Lamar is. It was a high bank, and the bank came right down into the creek. So they took part of Pease Park, moved the creek over, and where the creek is today, is where we used to play in Pease Park. And then from there over, they put in this street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "07ca04dd-9064-4511-87f9-db84e2c87e10"
+    },
+    {
+      "start_time": 3058,
+      "end_time": 3081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Shoal Creek Boulevard went up to Hyde Park and came down. There was no 19th street, but it came up the Hyde Park and came down, and then it tied in, came down and tied in somehow there to the club. To the Athletic Club. And they moved it. But that was, that was a real traumatic move, because it took Hyde Park. (long pause)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Change"
+        },
+        {
+          "category": "Environment",
+          "tag": "Environmental Health"
+        }
+      ],
+      "uuid": "4e16380e-1dc9-41f0-bb08-66a8b69c79a5"
+    },
+    {
+      "start_time": 3089,
+      "end_time": 3092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We had bootleggers up on San Gabriel Street."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "310ee45a-e7a6-43db-a89d-80cf25a5f71e"
+    },
+    {
+      "start_time": 3092,
+      "end_time": 3093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did we?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2a19f119-106d-44c4-b897-d0c2a1192aa5"
+    },
+    {
+      "start_time": 3093,
+      "end_time": 3127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, we did, we really had a couple bootleggers up there. I remember seeing em. We had a man named Dr. Ship [inaudible]. And that that area was very questionable. That was country, basically. And he was right at the end of San Gabriel, where you turn. You turned, went around a corner. And Barker, who was our hot historian at UT, lived in a wonderful house there. It's been torn down. You went up a little ways, and you get to where Layman Adams, who was a very well known artist. Place is the Cosmetsky building today, is on the property that was Adams'."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "d75c98b5-7561-4b72-9d30-775aed327322"
+    },
+    {
+      "start_time": 3127,
+      "end_time": 3135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, is that right? So was this during prohibition that we had bootleggers? Or?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "434a1b66-57c6-4c66-b2d0-aa0d6744c306"
+    },
+    {
+      "start_time": 3135,
+      "end_time": 3151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah during Prohibition. And we, before my father bought the land, here, he was looking at a piece of property that was pretty much next to it. It was this little spot in between. It was being developed. And, but this one house had been there, and these were fightin' bootleggers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Memory",
+          "tag": "Personal"
+        }
+      ],
+      "uuid": "b35363e4-955a-433e-b233-4b548f89c20a"
+    },
+    {
+      "start_time": 3151,
+      "end_time": 3173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were some bigger houses there too, because it was put in the same, um, area that the ones in Wheatville were. And we went by one day to look at the block, and one fella came out. He had more bandages on (laughter) And they'd had a big shootout with the police the night before, it turned out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "bf5da9ae-056d-4f8a-85eb-06a0a9189690"
+    },
+    {
+      "start_time": 3174,
+      "end_time": 3179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright now, Wheatville doesn't have an 'S' on it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d01f73f0-f8ce-4d9d-8303-e2486f02f608"
+    },
+    {
+      "start_time": 3180,
+      "end_time": 3189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. But I think when the grocery store decided to put the ‘S’ in, it's messed things up for it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "ac2557dc-1b0a-46a4-a8d4-b9a974b338ee"
+    },
+    {
+      "start_time": 3189,
+      "end_time": 3199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It has, and I just tell people, they didn't know what they were doing. They didn't. The 'S' was never there. And of course, and you're not, you're not interested in the scalpings along the creek. I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        },
+        {
+          "category": "Evolution",
+          "tag": "Past v Present"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
+        }
+      ],
+      "uuid": "c72c9f6b-2f4c-4542-927a-8ed29682854c"
+    },
+    {
+      "start_time": 3199,
+      "end_time": 3200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can tell me about them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9ff294b6-83bb-45a6-82d3-28be97f2dd8b"
+    },
+    {
+      "start_time": 3200,
+      "end_time": 3206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think the [...inaudible]. Well I can't remember when the... well I can't remember his name, too. We had the swimming holes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a75156b9-e08f-4907-9999-f933da7e9e00"
+    },
+    {
+      "start_time": 3206,
+      "end_time": 3220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We also have our first county judge was killed at Sixth Street and Shoal Creek. His name was James Smith. And he had his boy was nine years old, named, what was his name? Fayette."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "069e9cd4-89c0-4c4b-a541-038a8920891b"
+    },
+    {
+      "start_time": 3222,
+      "end_time": 3257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the Indian campground, of course, they would camp up here and use that shelter that's down here. And they'd use a spring, but you'd go up on Windsor Road, go around the curve... um, and look in the Neiman's front yard, you have to get out and trespass. But they have a tree that marked a campsite because they camped along that top area. And at least in this area of the state, apparently, what they did, they took a young tree and they twisted it. And these trees, now that a couple 100 years old, you can some of them, you can still see that twist. And this tree is that way, there’s one on Waller Creek. And it's even more obvious than this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Memory",
+          "tag": "Collective"
+        }
+      ],
+      "uuid": "f4e0b9e8-7174-4723-b058-a263b2a578c7"
+    },
+    {
+      "start_time": 3258,
+      "end_time": 3259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So twisted in what way?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "1a669c89-cd55-4d5b-9a45-1a5e333a2cde"
+    },
+    {
+      "start_time": 3259,
+      "end_time": 3302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, they just twisted it like this, until, as a tree grew, that trunk was twisted and it marked their campsite. And they would take, oh, they also supposedly took, would cut limbs and prune it so it pointed a certain way. Now, my tree man, I don't know if Footy knows, but my tree man, few years back, said, \"Do you know your neighbors down here have a live oak?,\" I said, \"it's a studded Live Oak.\" \"And have you ever looked at it?\" and I said, \"Well, before the neighbors were there, we played down there all the time.\" He said, \"Well, look at it. Well, if it was done like this\", and it pointed right up to the spring. So I figured see all the trail down there, you wouldn't know whether that was a permanent spring, I thought it was just seepage from rain or something, and we have found artifacts. So-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
+        }
+      ],
+      "uuid": "eb624b5e-9d4b-4bb3-81e0-3b4ee0f6a3c8"
+    },
+    {
+      "start_time": 3303,
+      "end_time": 3304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So where is the Neiman's house?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "af52994d-a431-4253-b885-5671aa770a68"
+    },
+    {
+      "start_time": 3305,
+      "end_time": 3344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well the Neiman's house. You go Windsor road, and you have a stop sign, and you hit, pick up… well, I don't know if the name is the same or not… but you turn left and you're following along the top of the bluff down here. It's a White House, one two... It's uh, West Lynn comes in. It's a white house, two story on the right, and it's probably about three or four houses down from West Lynn. It may not be that far, and there's a great big Live Oak the part of the driveway comes in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
+        }
+      ],
+      "uuid": "1005f7f0-9290-4ba3-9e96-28f38eb55bd3"
+    },
+    {
+      "start_time": 3344,
+      "end_time": 3347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, is it where they decorate for Christmas every year?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a4eab41f-9701-4c00-9e83-1d9f0aed59f4"
+    },
+    {
+      "start_time": 3347,
+      "end_time": 3384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no, they haven't. She lives there by by herself, and she has a daughter that's got one of these horrible diseases that grew up with my children. And I don't think [...inaudible] she ever seen... but there's some right in there. But she's about three or four houses down, and there's no fence in front the yard. Some of the places have had walls, and at least the last time I drove by, I'm sure there's no fence there. But her name is as is Vi - V-I- Neiman. Vi is for Virginia, we'd always call her Vi. She's a real sweet person.And the tree's on the right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "afd1a0d3-31c6-4e05-8588-8a09611b96b8"
+    },
+    {
+      "start_time": 3385,
+      "end_time": 3406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you can't see much from the… you can't see much from the street. But if you get can get out and walk back and look at the back side, you can see how it was maneuvered. It's not as precise as the one over here on Waller Creek. And it may be older, maybe because the tree is much older, I don't know, but they're both live oaks, and they both have been, um... (long pause)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Science",
+          "tag": "Environmental Indicator"
+        }
+      ],
+      "uuid": "7878fbeb-4988-483a-9b09-87a029554ecc"
+    },
+    {
+      "start_time": 3407,
+      "end_time": 3419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we know that the Indians we have in these two cases here, I guess, and there were more, we know the Indians camped along here because they trooped down on what's now Sixth Street and Lamar, and that's where... [interviewees cross talk]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "9e8a7005-7e0e-4b2a-83b3-de5e66ae187f"
+    },
+    {
+      "start_time": 3418,
+      "end_time": 3419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They would raid?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "71d30b2e-eda5-4a7c-b0c3-8250fa8793c5"
+    },
+    {
+      "start_time": 3420,
+      "end_time": 3435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that's where they killed our first county judge. And then they took that nine year old boy for, held him, um, hostage. And he… the man had cattle on the other side of the creek."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "6e3733ad-21ae-42e5-b1f9-42e39f4a5f92"
+    },
+    {
+      "start_time": 3436,
+      "end_time": 3394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I have a feeling that any... discussion that maybe they had with Steven F. Austin, they were convinced that anything on the west side of that creek was theirs. And, though they didn't pay it, you know, they went anywhere they wanted to go. But, they may have used this as an excuse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "dbe49ea3-1987-4013-b46b-99249425a88f"
+    },
+    {
+      "start_time": 3454,
+      "end_time": 3480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But anyway, this man had cattle over there, and he had the boy on riding double with him on the horse. And they came down from this high spot where they camped, and went down and killed the father, took the boy. He was found, seen a year later sitting in the square in Santa Fe. And, um, but nobody, because a lot of Indians around, nobody had any money to buy him back. And that's what they wanted. They wanted money."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "5eaa92bf-e411-4166-9416-02259e24a4c3"
+    },
+    {
+      "start_time": 3480,
+      "end_time": 3526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And a year later, he was bought back in Taos... by a man who paid $60 for him. And he was put on a wagon train that went into… and this is down, but I have forgotten the details. They went into some place, I believe, in Kansas. And the man there was... his job was to try to get these children that were taken and held for ransom, to find their families and get them back to their family. And he did get to find this boy's mother and siblings. She’d left Austin. They were over in East Texas. He ended up as a slave owner and had a plantation, and died up in the early 1900s. And when his first boy was born, he named him Roland to the man who bought him back for $60, so that's interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
+        }
+      ],
+      "uuid": "19ea9db9-3a64-40a5-b7df-16c576404b83"
+    },
+    {
+      "start_time": 3527,
+      "end_time": 3530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second story, Sarah Hibins, this is a woman-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "83a77d23-de14-402e-b610-634f4bab43ce"
+    },
+    {
+      "start_time": 3531,
+      "end_time": 3536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before we go on, could you tell me where this twisted tree is on Waller creek that you were talking about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "98e760ba-3386-4852-974c-531219490a6c"
+    },
+    {
+      "start_time": 3537,
+      "end_time": 3555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, yeah, and it's tricky to get to, but if you don't mind making a few wrong turns... And it was owned by a family that had a furniture manufacturing thing here in town. I think that last name is Smith. I don't know whether they're still there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0455044e-c0ec-49f3-a279-6075944e5d4d"
+    },
+    {
+      "start_time": 3556,
+      "end_time": 3582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A house was built in 1918 or thereabouts, by a Professor at UT named Casey. It's a wonderful old house. And, um, there's a spring in that area that comes up. And they actually had a spring house in the basement of the house. Went down the basement, and they've had water coming in down there. But and of course, that's why the Indians were there. And this tree is out in their yard. And- [interviewees cross talk]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Environment",
+          "tag": "Natural Beauty"
+        }
+      ],
+      "uuid": "948fa2a8-a56f-47fa-bb27-c10b5019c18f"
+    },
+    {
+      "start_time": 3582,
+      "end_time": 3584,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's 24th street?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "59f09bcd-e8db-4b6e-9781-c215ae723d25"
+    },
+    {
+      "start_time": 3584,
+      "end_time": 3603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, you have to get over on the east side of town, come off of... Duval? (pause) Well, if you can find the Hyde Park... not the pharmacy, there's a Hyde Park restaurant over there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        }
+      ],
+      "uuid": "042904e6-5895-49f5-9bbe-e92606b9f0aa"
+    },
+    {
+      "start_time": 3603,
+      "end_time": 3604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hyde Park Grill?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "2af424f6-d441-477b-8c63-8469892d1945"
+    },
+    {
+      "start_time": 3604,
+      "end_time": 3614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grill. Do you know where that is? All right, it's, it's right, close to there. And I can't remember how close the grill- is that on Duval Street? What's the-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "6c3d3235-e022-40b0-8abf-73a6da88ee08"
+    },
+    {
+      "start_time": 3611,
+      "end_time": 3672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That'd be interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "254b344b-193a-4ab5-b122-f920fa7d1cce"
+    },
+    {
+      "start_time": 3612,
+      "end_time": 3689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the last time I looked at it, because the trees do grow and they can cover up scars and things, so that makes a difference. But the last time I was out there, which was some party function that they had, there was a… you could very definitely see how that tree had been twisted. So, uh..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "d1cc77da-3cd5-49e5-9390-31e0d0f1552a"
+    },
+    {
+      "start_time": 3614,
+      "end_time": 3615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "8d7f20a9-3f48-44c8-ab3f-cb50aac4bff9"
+    },
+    {
+      "start_time": 3615,
+      "end_time": 3632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. I can't remember how close it is to the creek, but somewhere right in there, you drive along, and you'll see a roadway that goes down. And you go down, maybe the distance of the block. And then there's a bridge that goes across into this place. There's another house down there-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "826926b3-d5e4-4251-b423-1d0d6f06ca35"
+    },
+    {
+      "start_time": 3632,
+      "end_time": 3636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is that Inshallah, the street called Inshallah?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "620d1393-5e09-41c4-b925-072e15715cd9"
+    },
+    {
+      "start_time": 3637,
+      "end_time": 3654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haven't heard that, that one doesn't ring a bell. But it's, it's right close to that, that restaurant. And if you don't mind, it's on- if you're going, well anyway, it'd be on your right. You're going north, it'll be on your right. Must be where the creek is. If you can find the creek! (laughter) It's is inside the creek."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "a54f755f-ebb3-4dcd-b41d-32f829c3fcaf"
+    },
+    {
+      "start_time": 3654,
+      "end_time": 3655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's on public land?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "13b10245-6da8-4968-8606-ed47052b76f4"
+    },
+    {
+      "start_time": 3655,
+      "end_time": 3656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, it's on private land."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "05de94ea-5722-467d-bbaa-03f808b759f7"
+    },
+    {
+      "start_time": 3656,
+      "end_time": 3658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, but you can see it. You can see it from the street. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "f53b81d8-7720-4b7f-8a4f-f5f691fc4648"
+    },
+    {
+      "start_time": 3658,
+      "end_time": 3672,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And really, if you, if you didn't mind being a little bit forward, if you went up and knocked on the door and told them who you are, that you heard about the tree, then they’d be probably just be tickled to death to come out and [...inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "c3305ba0-9c23-4819-bfbd-89bbe92ae292"
+    },
+    {
+      "start_time": 3689,
+      "end_time": 3691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll take a look."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9036ad03-17c6-4d50-8e70-d9e903ae534b"
+    },
+    {
+      "start_time": 3692,
+      "end_time": 3698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're very interesting. [...inaudible] Lake Schmidt (long pause)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0517a2c7-24a8-4342-a7f6-0321972eab14"
+    },
+    {
+      "start_time": 3700,
+      "end_time": 3721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, Sarah Hibinss came up Shoal Creek and they got the child back up here at 29th street. Republic of Texas, 1830... dates don't agree. Once, somebody said '1835,' somebody said, 'No, that's not right, that wasn't Republic.' (laughter) 1837, well, I don't know what it is, but anyway, she was... (trails off)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "080c518e-daf9-475a-8233-2669293ffeac"
+    },
+    {
+      "start_time": 3723,
+      "end_time": 3735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was before Austin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "109939da-81fe-4f4e-a6c9-549c66c9ad79"
+    },
+    {
+      "start_time": 3725,
+      "end_time": 3809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah! But they did have some help down here at the Fort Colorado [inaudible (about name of ranges)] Ranges, or whatever they called it, then. And, when she was taken, she was taken on the Guadalupe River by Comanches. She was riding with her husband and her brother, and she had a little boy that was six, and she had a baby. And they killed her brother, I guess scalped him, and killed the, um, husband, got rid of him. The baby hollered, they bashed his head in on a tree, which was standard. And so, by the time they crossed at the Shoals in the river, that's rock bottom down here on the Colorado, and came up the creek, she had this six year old. And they did camp. They camped up here at 29th street. Probably, I don't know how many there were in the group, but whether they can't do, they could spread out and cover a block or two, or they could be at sides of this room. But, um, she... went to bed. Didn't go to sleep. She was apparently in that Split Rock area, possibly behind the Split Rock, we don't know. But she was up in there, and when the Indians went to sleep, she got up and she waited in the creek itself, because she thought it'd be harder for them to find her. She thought, if she could get down the water, she could hide. And got down to who's that first… Our first so called settler, who had a cabin down on Colorado-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "In Group v Out Group"
+        },
+        {
+          "category": "Environment",
+          "tag": "Human Health"
+        }
+      ],
+      "uuid": "5b63bdb0-952a-4a5a-83b5-5b3c23f89013"
+    },
+    {
+      "start_time": 3809,
+      "end_time": 3810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Harold?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "df03a116-11df-4ca7-886f-86957344031f"
+    },
+    {
+      "start_time": 3810,
+      "end_time": 3821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Harold. Yeah, Jacob Harold. She would- he had- he was briefly under the bridge, the area where a bridge is now, in a tent. But he did have a log cabin right down here at the Colorado Crossing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Land(scape)",
+          "tag": "City Geography"
+        },
+        {
+          "category": "Community",
+          "tag": "Credibility"
+        }
+      ],
+      "uuid": "224aa5ac-8092-4350-99cf-df8701e2da4e"
+    },
+    {
+      "start_time": 3821,
+      "end_time": 3822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And her name was Sarah?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "9adf1bff-fe66-4183-b011-53aa16bba876"
+    },
+    {
+      "start_time": 3822,
+      "end_time": 3824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She was Sarah Hibins, H-I-B-I-N-S."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "0296bb75-963c-4d6b-8623-0ca612854e16"
+    },
+    {
+      "start_time": 3825,
+      "end_time": 3825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "00928c3e-de76-442d-b723-8423581c8176"
+    },
+    {
+      "start_time": 3826,
+      "end_time": 3840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she waded in the creek, down to him and... and he took her. They went out to a fort- They went out to... they went down on the Colorado [...inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Uncategorized",
+          "tag": "Interview Commentary"
+        }
+      ],
+      "uuid": "4382c865-1885-47a4-b26a-af5e4198582c"
+    }
+  ],
   "set": "Default",
   "event_id": "90101c1f-4210-4a57-8b14-c0f78f9f32d4",
   "source_id": "b7ab42fc-c0e2-4420-9d02-07e38932dd0b"
