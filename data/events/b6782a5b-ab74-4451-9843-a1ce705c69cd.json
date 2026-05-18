@@ -1,0 +1,54 @@
+{
+  "audiovisual_files": {
+    "439d36cd-eb4a-4249-9d45-522cd810727f": {
+      "label": "Interview with Robert F. Bacon",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://dn721900.ca.archive.org/0/items/robert-f-bacon-oral-history/Robert%20F%20Bacon%20Audio%20Combined.mp3",
+      "duration": 1871,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "An interview with Robert F. Bacon and Ella Lambert Bacon conducted in 1964. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Content Warning: Some interviews contain disturbing or offensive terms and phrasing in reference to Black and Indigenous residents. We acknowledge the historic, systemic inequities represented by this material. Because we wish to be honest about when and who history harms, we have not edited the audio file, but we have altered the written transcriptions and use asterisks to signal offensive language.",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Reconstructing Austin",
+  "av_file_order": [
+    "439d36cd-eb4a-4249-9d45-522cd810727f"
+  ],
+  "created_at": "2026-05-18T17:51:35.519Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-05-18T17:51:35.519Z",
+  "updated_by": "raymondhyser"
+}
