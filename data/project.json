@@ -23,7 +23,13 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "UTEnvironmentalHistories",
+        "avatar_url": "https://avatars.githubusercontent.com/u/236908177?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -123,7 +129,7 @@
       ]
     },
     "created_at": "2026-05-17T16:49:46.518Z",
-    "updated_at": "2026-05-27T16:41:37.670Z",
+    "updated_at": "2026-06-22T22:17:17.626Z",
     "generate_pages_site": true
   },
   "annotations": {},
